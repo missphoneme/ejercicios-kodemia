@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T03:43:29.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="kS6PYH_x-kaMiR_gQG5Z" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T03:47:33.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="SZe7Mz5Uy2XXPXb4Iojw" version="14.5.4" type="github">
   <diagram id="fVkqT968_KjDIddYnn1a" name="Page-1">
-    <mxGraphModel dx="1483" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1533" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-28" target="-tMsWFuX2rt4hmbT-Jkw-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-28" value="Cuando el jamón esté tostadito, verter las claras en el sartén y mezclar las claras junto con el jamón utilizando una espátula." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-28" value="Cuando el jamón esté tostadito, verter las claras en el sartén y mezclar las claras junto con el jamón utilizando la espátula número 1." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-762.5" y="-770" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-31" target="-tMsWFuX2rt4hmbT-Jkw-33">
@@ -85,11 +85,14 @@
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-33" value="Una vez hecho el huevo, retirar el sartén 1 de la hornilla y colocar el sartén 2 en su lugar." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="-651" width="140" height="74" as="geometry" />
         </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-35" target="-tMsWFuX2rt4hmbT-Jkw-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-35" value="Por el momento se dejará el huevo en la sartén 1 para que este no se enfríe mientras se preparan los otros dos platillos." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="-661" width="150" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-37" value="Se toman los huevos y el bowl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="-644" width="120" height="60" as="geometry" />
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-37" value="Se toman los huevos restantes y el bowl número 2. Romper y verter los huevos en el bowl." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-656" width="140" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
