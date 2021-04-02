@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T03:08:11.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="wt-19N49d_-wLAn85_5I" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T03:14:58.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="syaYnn8V3CSE1Rxj5-LG" version="14.5.4" type="github">
   <diagram id="fVkqT968_KjDIddYnn1a" name="Page-1">
     <mxGraphModel dx="1483" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,14 @@
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-9" value="Sacar los utensilios necesarios para la preparación (dos sartenes, dos espátulas, dos bowls, dos tenedores, un cuchillo y una tabla para picar)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="-1145" width="170" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-11" target="-tMsWFuX2rt4hmbT-Jkw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-11" value="Tomar las rebanadas de jamón y picarlas en cuadritos con el cuchillo sobre la tabla para picar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-172.5" y="-1020" width="155" height="90" as="geometry" />
+          <mxGeometry x="-165" y="-1020" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-17" value="Separar la cantidad de huevos que consume el invitado que prefiere su desayuno sin yemas y romper los huevos vertiéndolos en un bowl cuidado de separar las yemas de las claras dejando caer en el bowl solo las clara." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-176.25" y="-900" width="162.5" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
