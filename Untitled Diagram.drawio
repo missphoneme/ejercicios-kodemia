@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T03:51:24.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="lHHELE82PF3InSV-yYDu" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T03:58:00.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="EKEFBTnIf56PJL2jnzqV" version="14.5.4" type="github">
   <diagram id="fVkqT968_KjDIddYnn1a" name="Page-1">
     <mxGraphModel dx="1533" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,11 +97,17 @@
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-37" value="Se toman los huevos restantes y el bowl número 2. Romper y verter los huevos en el bowl." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-662" width="130" height="96" as="geometry" />
         </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-39" target="-tMsWFuX2rt4hmbT-Jkw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-39" value="Mezclar los huevos con un tenedor hasta que estos se incorporen de manera uniforme." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120.94" y="-660.75" width="110.94" height="93.5" as="geometry" />
         </mxCell>
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-41" value="Colocar el restante del jamón en la sartén caliente y removerlos ocasionalmente." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130.47" y="-530" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-390" width="139.06" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
