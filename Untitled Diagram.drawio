@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T02:45:57.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="LfxjDPc9VK_xSgkA8QUp" version="14.5.4" type="github"><diagram id="fVkqT968_KjDIddYnn1a" name="Page-1">jZNbb4IwFIB/DY8mQnWyx4nOJdueXGL2WOkZbdJSUo6K/PoVORWIWbInTr9zvxCxzDQ7xyv5aQXoKJmLJmKbKEniRcr8pyNXIuki7knhlCA2gL1qgeCc6EkJqCeGaK1GVU1hbssScpww7py9TM1+rJ5mrXgBD2Cfc/1ID0qg7GmarAb+BqqQIXP89NxrDA/G1EktubCXEWLbiGXOWuwl02Sgu+mFufR+r39o74U5KPE/Dh9lWy+z7+p9FSfy2Oa7Q2pmFOXM9Yka/oIGqWC8hilgB9laotEexF7kWhWll3OfHZwHZ3Co/NxeSGGUEJ372kGtWn68hZr7d2VVibetLNfRctPFOqGt+813oR8bC1X6FNCMEDW6A2sA3dWbkHYWzofObpasCFyGJS4IydH+wrI4nU1xDz1M1gs03PAclnjTjf4Ftv0F</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-02T02:54:17.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="1XH_D-OaaY1qFh86gxsx" version="14.5.4" type="github">
+  <diagram id="fVkqT968_KjDIddYnn1a" name="Page-1">
+    <mxGraphModel dx="1483" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lnzs5CYpK712hbzcGW8m-1" value="º" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry y="-270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-1" target="-tMsWFuX2rt4hmbT-Jkw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-1" value="Preparar huevos con jamón para tres invitados" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-1160" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-3" value="Preguntar a los invitados cuántos come cada uno" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-1160" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="-1145" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
