@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T03:28:42.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="C1M0oUGgpSlNR89n-Dzt" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T03:36:40.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="whg4MbNQY7KzUHk1-ny-" version="14.5.4" type="github">
   <diagram id="fVkqT968_KjDIddYnn1a" name="Page-1">
     <mxGraphModel dx="1483" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,11 +55,29 @@
         <mxCell id="-tMsWFuX2rt4hmbT-Jkw-19" value="&lt;span&gt;Romper los huevos vertiéndolos en un bowl cuidando de separar las yemas de las claras dejando caer en el bowl solo las claras después, mezclar las claras de tal manera que se&amp;nbsp;incorporan bien unas con otras.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="-920" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-21" value="Encender una hornilla de la estufa y poner el sartén en el fuego. Colocar la llama de fuego a intensidad media" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-21" target="-tMsWFuX2rt4hmbT-Jkw-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-21" value="Encender una hornilla de la estufa y poner el sartén número en el fuego. Colocar la llama de fuego a intensidad media" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-590" y="-905" width="145" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-23" value="Una vez que la sartén esté caliente, tomar un tercio del jamón rebanado y colocarlo en la sartén." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-167.5" y="-530" width="145" height="60" as="geometry" />
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-23" target="-tMsWFuX2rt4hmbT-Jkw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-23" value="Una vez que la sartén esté caliente, tomar un tercio del jamón rebanado y colocarlo en la sartén. Remover de vez en cuando." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-905" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tMsWFuX2rt4hmbT-Jkw-28" target="-tMsWFuX2rt4hmbT-Jkw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-28" value="Cuando el jamón esté tostadito, verter las claras en el sartén y mezclar las claras junto con el jamón utilizando una espátula." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="-770" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-31" value="&lt;span&gt;Seguir revolviendo hasta que el huevo cuaje.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-752.5" y="-644" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tMsWFuX2rt4hmbT-Jkw-33" value="Una vez hecho el huevo, retirar el sartén uno del&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-752.5" y="-550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
